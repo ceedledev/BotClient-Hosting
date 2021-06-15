@@ -1,6 +1,6 @@
 # Bot Client
 
-* Le bot qui sert avant tous pour ce [projet](https://soon.com), n'est pas toute à fait opérationnel.
+* Le bot qui sert avant tous pour ce [projet](https://github.com/Kziiz/EspaceClient-Hosting), n'est pas toute à fait opérationnel.
 
 [![](https://img.shields.io/discord/745382663896039496.svg?logo=discord&colorB=7289DA)](https://discord.gg/nF5vj4BhrH)
 [![](https://img.shields.io/badge/paypal-donate-blue.svg)](https://paypal.me/fabio2fell)
