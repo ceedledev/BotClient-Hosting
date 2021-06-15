@@ -1,4 +1,4 @@
-# Espace Client (Anglais)
+# Bot Client
 
 * Le bot qui sert avant tous pour ce [projet](https://soon.com), n'est pas toute à fait opérationnel.
 
